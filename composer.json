@@ -1,0 +1,20 @@
+{
+    "name": "capisso/ip",
+    "description": "",
+    "authors": [
+        {
+            "name": "Luke Strickland",
+            "email": "luke@axxim.net"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.0.x"
+    },
+    "autoload": {
+        "psr-0": {
+            "Capisso\\Ip": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
